@@ -10,7 +10,7 @@
           PHP, MySQL, Apache, Linux • Basic UI design. Building simple, practical web apps
         </p>
         <div class="d-flex gap-3 mt-4 flex-wrap">
-          <a href="#work" class="btn btn-primary btn-lg px-4">Download Resume</a>
+          <a href="sanjay_resume.pdf" download="sanjay_resume.pdf" class="btn btn-primary btn-lg px-4">Download Resume</a>
           <a href="#contact" class="btn btn-outline-dark btn-lg px-4">Get in touch</a>
         </div>
       </div>
