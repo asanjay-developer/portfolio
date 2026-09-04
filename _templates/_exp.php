@@ -8,36 +8,22 @@
                 <div class="timeline-item position-relative">
                     <div class="timeline-dot position-absolute"></div>
                     <div class="d-flex justify-content-between flex-wrap">
-                        <h3 class="h5 mb-1">Senior Backend Engineer, Fieldstone Labs</h3>
-                        <span class="text-secondary small">2023 — Present</span>
+                        <h3 class="h5 mb-1">Web Development — Self-Learning & Skill Development</h3>
+                        <span class="text-secondary small">2026 — Present</span>
                     </div>
                     <p class="text-secondary mb-0">
-                        Leading the platform team responsible for payments infrastructure
-                        and internal developer tooling.
+                        Focused on strengthening practical web development skills through hands-on learning and application development. Working with PHP, MySQL, Apache, Linux, Git, Docker, Bootstrap, and UI design, while continuing to develop projects and improve problem-solving skills.
                     </p>
                 </div>
 
                 <div class="timeline-item position-relative">
                     <div class="timeline-dot position-absolute"></div>
                     <div class="d-flex justify-content-between flex-wrap">
-                        <h3 class="h5 mb-1">Backend Engineer, Northwind Systems</h3>
-                        <span class="text-secondary small">2020 — 2023</span>
+                        <h3 class="h5 mb-1">Bachelor of Computer Science</h3>
+                        <span class="text-secondary small">2022— 2025</span>
                     </div>
                     <p class="text-secondary mb-0">
-                        Built the event pipeline powering real-time analytics for
-                        e-commerce clients processing 2M+ orders monthly.
-                    </p>
-                </div>
-
-                <div class="timeline-item position-relative">
-                    <div class="timeline-dot position-absolute"></div>
-                    <div class="d-flex justify-content-between flex-wrap">
-                        <h3 class="h5 mb-1">Software Engineer, Orbital</h3>
-                        <span class="text-secondary small">2018 — 2020</span>
-                    </div>
-                    <p class="text-secondary mb-0">
-                        First engineering hire; built the core API and deployment
-                        infrastructure from zero to production.
+                        During my degree, I developed a foundation in programming, web development
                     </p>
                 </div>
 

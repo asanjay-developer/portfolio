@@ -3,12 +3,12 @@
     <div class="container py-4">
         <div class="row mb-5">
             <div class="col-lg-6">
-                <h2 class="display-6 mb-3">Selected work</h2>
+                <h2 class="display-6 mb-3">mY Projects</h2>
                 <p class="text-secondary">A few projects I've shipped or led, spanning infrastructure, tooling, and open source.</p>
             </div>
         </div>
 
-        <div class="row g-4">
+        <!-- <div class="row g-4">
             <div class="col-md-6 col-lg-4">
                 <div class="card card-project h-100 p-4">
                     <div class="d-flex justify-content-between align-items-start mb-3">
@@ -62,6 +62,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>

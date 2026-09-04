@@ -8,7 +8,11 @@
                     Open to new roles and interesting collaborations. The fastest way
                     to reach me is email — I read everything.
                 </p>
-                <form>
+                <h2>E-mail</h2>
+                <h5 class=" fs-5 mb-4">Sanjayselva657@gmail.com</h5>
+                <h2>Phone</h2>
+                <h5 class="fs-5 mb-4">+91 80564 43605</h5>
+                <!-- <form>
                     <div class="row g-3">
                         <div class="col-md-6">
                             <label class="form-label small text-secondary" for="name">Name</label>
@@ -26,7 +30,7 @@
                             <button type="submit" class="btn btn-primary btn-lg px-4">Send message</button>
                         </div>
                     </div>
-                </form>
+                </form> -->
             </div>
         </div>
     </div>
