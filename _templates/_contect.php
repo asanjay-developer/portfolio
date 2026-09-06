@@ -11,7 +11,7 @@
                 <h2>E-mail</h2>
                 <h5 class=" fs-5 mb-4">Sanjayselva657@gmail.com</h5>
                 <h2>Phone</h2>
-                <h5 class="fs-5 mb-4">+91 80564 43605</h5>
+                <h5 class="fs-5 mb-4">+91 80564 43503</h5>
                 <!-- <form>
                     <div class="row g-3">
                         <div class="col-md-6">

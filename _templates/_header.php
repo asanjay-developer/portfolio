@@ -4,9 +4,9 @@
     <div class="row align-items-end">
       <div class="col-lg-9">
         <p class="text-uppercase small text-secondary mb-3" style="letter-spacing:.08em;">Web Engineer · Thanjaur</p>
-        <h1 class="hero-index mb-4">Building Web<br>Application With ME!!!</h1>
+        <h1 class="hero-index mb-4">Building Web<span class="hero-br"><br></span>Application With ME!!!</h1>
         <p class="fs-5 col-lg-8 text-secondary">
-          I'm Sanjay —web engineer and Web designer. <br/>
+          I'm Sanjay —web engineer and Web designer. <br class="d-none d-sm-inline"/>
           PHP, MySQL, Apache, Linux • Basic UI design. Building simple, practical web apps
         </p>
         <div class="d-flex gap-3 mt-4 flex-wrap">

@@ -8,7 +8,7 @@
                 <div class="timeline-item position-relative">
                     <div class="timeline-dot position-absolute"></div>
                     <div class="d-flex justify-content-between flex-wrap">
-                        <h3 class="h5 mb-1">Web Development — Self-Learning & Skill Development</h3>
+                        <h3 class="h5 mb-1">Web Development & Skill Development</h3>
                         <span class="text-secondary small">2026 — Present</span>
                     </div>
                     <p class="text-secondary mb-0">
